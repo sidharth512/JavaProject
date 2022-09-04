@@ -10,6 +10,6 @@ public class Twst {
         //100"java"
         String s2 = "Java" + 20 + 30 + 10;
         //"java"60
-
+System.out.println(s);
     }
 }
